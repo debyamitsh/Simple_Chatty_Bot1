@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cutting the fraction/Problems-Cutting_the_fraction.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cutting the fraction/Problems-Cutting_the_fraction.iml" group="Simple_Chatty_Bot1/Problems-Cutting_the_fraction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cutting the fraction/Problems-Cutting_the_fraction_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cutting the fraction/Problems-Cutting_the_fraction_main.iml" group="Simple_Chatty_Bot1/Problems-Cutting_the_fraction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cutting the fraction/Problems-Cutting_the_fraction_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cutting the fraction/Problems-Cutting_the_fraction_test.iml" group="Simple_Chatty_Bot1/Problems-Cutting_the_fraction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Max values of integer types/Problems-Max_values_of_integer_types.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Max values of integer types/Problems-Max_values_of_integer_types.iml" group="Simple_Chatty_Bot1/Problems-Max_values_of_integer_types" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Max values of integer types/Problems-Max_values_of_integer_types_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Max values of integer types/Problems-Max_values_of_integer_types_main.iml" group="Simple_Chatty_Bot1/Problems-Max_values_of_integer_types" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Max values of integer types/Problems-Max_values_of_integer_types_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Max values of integer types/Problems-Max_values_of_integer_types_test.iml" group="Simple_Chatty_Bot1/Problems-Max_values_of_integer_types" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Size, min and max/Problems-Size,_min_and_max.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Size, min and max/Problems-Size,_min_and_max.iml" group="Simple_Chatty_Bot1/Problems-Size,_min_and_max" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Size, min and max/Problems-Size,_min_and_max_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Size, min and max/Problems-Size,_min_and_max_main.iml" group="Simple_Chatty_Bot1/Problems-Size,_min_and_max" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Size, min and max/Problems-Size,_min_and_max_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Size, min and max/Problems-Size,_min_and_max_test.iml" group="Simple_Chatty_Bot1/Problems-Size,_min_and_max" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task.iml" group="Simple_Chatty_Bot1/Simple_Chatty_Bot-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_main.iml" group="Simple_Chatty_Bot1/Simple_Chatty_Bot-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_test.iml" group="Simple_Chatty_Bot1/Simple_Chatty_Bot-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot1.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot1.iml" group="Simple_Chatty_Bot1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Simple_Chatty_Bot1/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Simple_Chatty_Bot1/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Simple_Chatty_Bot1/util" />
+    </modules>
+  </component>
+</project>

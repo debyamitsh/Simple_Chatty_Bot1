@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Cutting_the_fraction_main" target="11" />
+      <module name="Problems-Cutting_the_fraction_test" target="11" />
+      <module name="Problems-Max_values_of_integer_types_main" target="11" />
+      <module name="Problems-Max_values_of_integer_types_test" target="11" />
+      <module name="Problems-Size,_min_and_max_main" target="11" />
+      <module name="Problems-Size,_min_and_max_test" target="11" />
+      <module name="Simple_Chatty_Bot-task_main" target="11" />
+      <module name="Simple_Chatty_Bot-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
